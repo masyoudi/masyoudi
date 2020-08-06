@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hi, I'm Masyoudi
 
+I'm a frontend engineer who is passionate about new things about mobile and web technology.
+Love to learn programming to hone logic and write code.
 <!--
 **masyoudi/masyoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
